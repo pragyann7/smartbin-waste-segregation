@@ -1,0 +1,1 @@
+# smartbin-waste-segregation
