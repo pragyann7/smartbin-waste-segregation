@@ -160,7 +160,7 @@ Response:
 (Add your images here once you upload them)
 
 ```
-/mechanical/bin_photos/my_bin.jpg
+smartbin-waste-segregation/designs&img/img/smartbin.jpg
 ```
 
 ---
