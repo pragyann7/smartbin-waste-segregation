@@ -20,7 +20,6 @@ class createWasteReadingView(generics.ListCreateAPIView):
 class LatestWasteReadingPerBinView(generics.ListAPIView):
     permission_classes = [AllowAny]
     serializer_class = WasteReadSerializer
-    permission_classes = [AllowAny]
 
     def get_queryset(self):
         # Subquery: get the latest reading ID per bin
