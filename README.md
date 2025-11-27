@@ -42,7 +42,7 @@ smartbin-waste-segregation/
 │   ├── wiring/
 │   └── bill_of_materials.md
 │
-├── design/
+├── designs&img/
 │   ├── 3d_models/
 │   └── bin_photos/
 │
@@ -156,8 +156,6 @@ Response:
 ---
 
 ## 🖼 Images / Demo
-
-(Add your images here once you upload them)
 
 ```
 smartbin-waste-segregation/designs&img/img/smartbin.jpg
